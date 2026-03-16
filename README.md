@@ -5,13 +5,13 @@
   Hi, I'm <strong>Dhanushkodi Adhithan</strong>
 </h1>
 
-<h3>Full Stack Developer (MERN) | Learning AI/ML | NestJS Explorer</h3>
+<h3>Full Stack Developer (MERN) | Learning AI/ML</h3>
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
-    I'm a passionate Full Stack Developer specializing in the MERN stack, currently expanding my horizons into AI/ML and NestJS. 
+    I'm a passionate Full Stack Developer specializing in the MERN stack, currently expanding my horizons into AI/ML . 
     I love building scalable web applications, crafting clean APIs, and exploring the intersection of web development and artificial intelligence.
     From intuitive frontends to robust backends, I create digital solutions that make an impact.
   </p>
@@ -51,7 +51,7 @@
 <tr>
 <td width="50%" align="center">
 <h3>💻 Frontend</h3>
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,tailwind" />
 <br/><br/>
 </td>
 
@@ -101,13 +101,13 @@
 - Built a responsive to-do list web app with task creation and deletion features
 - Managed app state using React hooks
 - Focused on component reusability and clean UI layout
-- 🔗 [GitHub](https://github.com/Dhanushkodiadhithan/ToDo-App) | 🌐 [Live Demo](https://todo-app-b4cx.onrender.com/)
+- 🔗 [GitHub](https://github.com/Dhanushkodiadhithan/ToDo-App) 
 
 ### 3. 🍔 Food App – Web Application
 - **Tech Stack:** HTML, CSS, JavaScript, React.js
 - Displayed static food items with detailed descriptions and recipe steps
 - Implemented interactive functionality with props and conditional rendering
-- 🔗 [GitHub](https://github.com/Dhanushkodiadhithan/FoodApp) | 🌐 [Live Demo](https://foodapp-cb9n.onrender.com/)
+- 🔗 [GitHub](https://github.com/Dhanushkodiadhithan/FoodApp) 
 
 ---
 
@@ -126,6 +126,9 @@
 
 ## 🎓 Education
 
+- **M.E. Computer Science and Engineering (2025-Present)**
+  - Pursuing Post Graduation
+    
 - **B.E. Computer Science and Engineering** (2021-2025)
   - Krishnaswamy College of Engineering and Technology, Cuddalore
   - **CGPA:** 8.43/10
@@ -143,11 +146,20 @@
 - ✅ Participated in 2-day workshop on Ethical Hacking and Cyber Security
 
 ---
-
 ## 💡 Currently Exploring
-javascript
-const currentlyLearning = {
-  ai_ml: ["Python", "TensorFlow", "Machine Learning Basics"],
-  backend: ["NestJS", "Microservices Architecture", "Advanced Node.js"],
-  goals: "Building AI-powered web applications"
-};
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🤖_AI_/_ML-FF6F00?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/⚙️_Backend-E0234E?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-0A0A0A?style=for-the-badge&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🎯_Goal:_Building_AI--powered_web_apps-1e1e2e?style=for-the-badge" />
+</p>
